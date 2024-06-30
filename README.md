@@ -15,4 +15,4 @@ Here are the features of the bitcoin flashing software v7.2.1 core network
 NB: Join our telegram channel for more latest update
 [Channel link](https://t.me/btc_flash_hub) 
 
-[Chat Admin] (https://t.me/czarbit)
+[Chat Admin](https://t.me/czarbit)
